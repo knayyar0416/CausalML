@@ -7,6 +7,7 @@ I am using Customer Retention data prescribe actions to business regarding custo
   💡 [Uplift modeling](https://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf) refers to the set of techniques used to model the incremental impact of an action or treatment on a customer outcome. Therefore, it is both a Causal Inference problem and a Machine Learning one. It is a causal inference problem because one needs to estimate the di↵erence between two outcomes that are mutually exclusive for an individual. Uplift modeling is also a machine learning problem as one needs to train di↵erent models and select the one that yields the most reliable uplift prediction according to some per- formance metrics. This requires sensible cross-validation strategies along with potential feature engineering.
 
 ## 🌐 About Dataset:
+<sup>:exclamation:This dataset is a fictional dataset for practicing purpose.</sup><sub></sub>
 Marketing Promotion Campaign with a total of 64,000 customers data.
 - recency: months since last purchase
 - history: $value of the historical purchases
@@ -17,8 +18,6 @@ Marketing Promotion Campaign with a total of 64,000 customers data.
 - channel: channels that the customer using, Phone/Web/Multichannel
 - offer: the offers sent to the customers, Discount/But One Get One/No Offer
 - conversion: customer conversion (buy or not)
-
-<sup>This dataset is a fictional dataset for practicing purpose.</sup><sub>!</sub> :exclamation:
 
 ## Methodology: 
 Causal Inference Model using CausalML library.
