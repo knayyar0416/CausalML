@@ -56,6 +56,5 @@ Exploring the causal relationship between the 'offer' treatment variable and 'co
 - For customers with more passed months since last purchase, there is a success on conversion (i.e., buy decision).
 
 ## 🔗 Supporting files
-- 👩‍💻 [Python script for clustering models](kickstarter-clustering-models.py)
-- 📁 [Entire dataset](kickstarter.xlsx) and [Data Dictionary](kickstarter-data-dictionary.xlsx)
-- 📊 [Data exploration and other charts](Images)
+- 👩‍💻 [Python script for clustering models](Code/uplift-modeling.ipynb)
+- 📁 [Entire dataset](Dataset/customer_retention_data.csv) and [Data Dictionary](Dataset/customer-retention-data-dictionary.xlsx)
