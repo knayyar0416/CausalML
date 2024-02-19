@@ -18,7 +18,7 @@ Marketing Promotion Campaign with a total of 64,000 customers data.
 - offer: the offers sent to the customers, Discount/But One Get One/No Offer
 - conversion: customer conversion (buy or not)
 
-<sup>This dataset is a fictional dataset for practicing purpose.</sup><sub>!</sub>
+<sup>This dataset is a fictional dataset for practicing purpose.</sup><sub>!</sub> :exclamation:
 
 ## Methodology: 
 Causal Inference Model using CausalML library.
