@@ -1,4 +1,4 @@
-# Marketing Promotion Campaign Uplift Modelling
+# Uplift Modelling on Marketing Promotion Campaign
 In this project, I developed an Uplift Model, using CausalML and Supervised Learning Classification algorithms, to maximize the impact of marketing promotion campaign by targeting right customers.
 
 ## 🔍 Objective: 
