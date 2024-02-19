@@ -8,6 +8,7 @@ I am using Customer Retention data prescribe actions to business regarding custo
 
 ## 🌐 About Dataset:
 <sup>:exclamation:This dataset is a fictional dataset for practicing purpose.</sup><sub></sub>
+
 Marketing Promotion Campaign with a total of 64,000 customers data.
 - recency: months since last purchase
 - history: $value of the historical purchases
